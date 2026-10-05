@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.head{
+    width: 100%;
+    height: 50vh;
+    background-color: black;
+    display: flex;
+ 
+}
+.head img{
+    width: 100px;
+    height: 300px;
+}
+.music{
+    color: white;
+}
+.bottom{
+    width: 100%;
+    height: 50vh;
+    background-color: black;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-end
+}
+.reng{
+    display: flex;
+    gap: 10px
+}
+.reng p, .reng i{
+    color: #fff;
+}

@@ -1,0 +1,49 @@
+.card{
+    width: 600PX;
+    height: 700px;
+    background-color: white;
+}
+.car{
+    width: 600PX;
+    height: 500px;
+    background-color: darkgray;
+    position: relative;
+
+}
+.car img{
+    width: 600px;
+    height: 500px;
+    object-fit: contain;
+}
+.salam{
+    position: absolute;
+    top: 10px;
+    left: 300px;
+    right: 30px;
+}
+.fa-heart{
+    position: absolute;
+    top: 10px;
+    right: 40px;
+}
+.baki{
+color: darkgray;
+}
+.fa-solid{
+    position: absolute;
+    top: 10px;
+    left: 30px; 
+}
+.faiz{
+    position: absolute;
+    left: 60px;
+}
+button{
+background-color: blue;
+border: none;
+color: beige;
+    position: absolute;
+   top: 400px;
+   left: 60px;
+
+}
